@@ -1,0 +1,313 @@
+{
+  "users": {
+    "212665167445@s.whatsapp.net": {
+      "lastCommandTime": 1704409593923,
+      "commandCount": 1,
+      "exp": 1271,
+      "limit": 4,
+      "role": "Dragón rey estrella"
+    },
+    "212705447951@s.whatsapp.net": {
+      "exp": 7,
+      "limit": 0
+    },
+    "212666871517@s.whatsapp.net": {
+      "lastCommandTime": 1704213420691,
+      "commandCount": 1,
+      "exp": 429,
+      "limit": 0
+    },
+    "212706583875@s.whatsapp.net": {
+      "role": "Dragón rey estrella",
+      "exp": 26,
+      "limit": 0,
+      "lastCommandTime": 1704296478354,
+      "commandCount": 1
+    },
+    "212640210268@s.whatsapp.net": {
+      "role": "Dragón rey estrella",
+      "exp": 8,
+      "limit": 0
+    }
+  },
+  "chats": {
+    "212665167445@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detect2": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antidelete": false,
+      "modohorny": true,
+      "autosticker": false,
+      "audios": true,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "modoadmin": false,
+      "simi": false,
+      "expired": 0
+    },
+    "212666871517@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detect2": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antidelete": false,
+      "modohorny": true,
+      "autosticker": false,
+      "audios": true,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "modoadmin": false,
+      "simi": false,
+      "expired": 0
+    },
+    "212705447951@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detect2": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antidelete": false,
+      "modohorny": true,
+      "autosticker": false,
+      "audios": true,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "modoadmin": false,
+      "simi": false,
+      "expired": 0
+    },
+    "212706583875@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detect2": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antidelete": false,
+      "modohorny": true,
+      "autosticker": false,
+      "audios": true,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "modoadmin": false,
+      "simi": false,
+      "expired": 0
+    },
+    "212640210268@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "detect2": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "antidelete": false,
+      "modohorny": true,
+      "autosticker": false,
+      "audios": true,
+      "antiLink": false,
+      "antiLink2": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "modoadmin": false,
+      "simi": false,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "sticker-sticker.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1704235611084,
+      "lastSuccess": 1704235611084
+    },
+    "ping.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1704235568301,
+      "lastSuccess": 1704235568301
+    },
+    "Hadith.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1704163865097,
+      "lastSuccess": 1704163865097
+    },
+    "Quran.js": {
+      "total": 33,
+      "success": 30,
+      "last": 1704235581313,
+      "lastSuccess": 1704235581313
+    },
+    "DL-instagram.js": {
+      "total": 5,
+      "success": 3,
+      "last": 1704235307683,
+      "lastSuccess": 1704235307683
+    },
+    "descargas-play_v2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1704241797706,
+      "lastSuccess": 1704241797706
+    },
+    "descargas-play.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1704278353058,
+      "lastSuccess": 0
+    },
+    "sticker-ttp_attp.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1704276784029,
+      "lastSuccess": 1704276784029
+    },
+    "maker-logos.js": {
+      "total": 3,
+      "success": 2,
+      "last": 1704296426247,
+      "lastSuccess": 1704278229053
+    },
+    "downloader-imagen.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1704278332165,
+      "lastSuccess": 1704278332165
+    },
+    "buscador-google.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1704278375832,
+      "lastSuccess": 1704278375832
+    },
+    "menus-menu.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1704409593929,
+      "lastSuccess": 1704409593929
+    },
+    "menu-audios.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1704296280616,
+      "lastSuccess": 1704296280616
+    },
+    "rpg-shop.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1704296363251,
+      "lastSuccess": 1704296363251
+    },
+    "owner-banlist.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1704296478356,
+      "lastSuccess": 1704296478356
+    },
+    "herramientas-clima.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1704296574689,
+      "lastSuccess": 1704296574689
+    },
+    "herramientas-chatgpt.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1704322845169,
+      "lastSuccess": 1704322845169
+    },
+    "agdz.js": {
+      "total": 20,
+      "success": 20,
+      "last": 1704329523845,
+      "lastSuccess": 1704329523845
+    },
+    "weather.js": {
+      "total": 17,
+      "success": 15,
+      "last": 1704383016976,
+      "lastSuccess": 1704383016976
+    },
+    "quran2.js": {
+      "total": 5,
+      "success": 2,
+      "last": 1704331337756,
+      "lastSuccess": 1704331055352
+    },
+    "anonymous_chat.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1704331036843,
+      "lastSuccess": 1704331036843
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "212705447951@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "autoread2": false,
+      "restrict": false,
+      "antiCall": false,
+      "antiPrivate": false,
+      "modejadibot": true,
+      "antispam": false,
+      "audios_bot": true,
+      "modoia": false
+    },
+    "212706583875@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "autoread2": false,
+      "restrict": false,
+      "antiCall": false,
+      "antiPrivate": false,
+      "modejadibot": true,
+      "antispam": false,
+      "audios_bot": true,
+      "modoia": false
+    },
+    "212640210268@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "autoread2": false,
+      "restrict": false,
+      "antiCall": false,
+      "antiPrivate": false,
+      "modejadibot": true,
+      "antispam": false,
+      "audios_bot": true,
+      "modoia": false
+    }
+  }
+}
